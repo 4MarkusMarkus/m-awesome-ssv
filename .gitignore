@@ -136,3 +136,4 @@ keyshares
 **/artifacts
 **/.idea
 **/cache
+test_transactions/migration.py
